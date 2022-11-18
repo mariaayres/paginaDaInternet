@@ -1,0 +1,14 @@
+body{
+  background-color: pink;
+}
+h1 {
+ color:blue;
+}
+p{
+font-family: "Lucida Console", "Courier New", monospace;
+ font-size: 20px;
+}
+table{
+background-color: #20B2AA;
+border-color: Darkgreen;
+}
